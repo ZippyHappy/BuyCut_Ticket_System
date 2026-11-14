@@ -1,4 +1,7 @@
-# BuyCut Core
+Hello!!! Zippy here
+I made this for block the resales of tickets in webs
+
+# BuyCut Ticket System
 
 BuyCut Core is a server-side ticket-purchase protection system. It exposes an HTTP API that a ticketing platform's backend can call during checkout. It does not include a ticket-buying website or browser interface.
 
@@ -223,6 +226,10 @@ This publishes the backend API for a ticketing platform; it does not create or h
 This project is intended to remain free to use and adapt. Anyone may use, modify, and share it, provided the original project attribution is preserved and the project is not presented as their original creation. Keep this attribution statement with redistributed copies.
 
 ## Development acknowledgment
-
 This project was developed with assistance from AI tools.
 
+## License
+
+this was created and worked by Zippy Team™.
+© BuyCut Ticket System, All rights reserved.
+"BuyCut" and "BuyCut Ticket System" is a registered trademark of Zippy Team™. All other trademarks are the property of their respective owners.
